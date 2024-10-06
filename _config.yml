@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Qingdao, China"
   employer         : "Harbin Engineering University"
-  uri              : # URL
+  #uri              : # URL
   email            : "xuchen.wang@hrbeu.edu.cn" 
 
   # Academic websites
@@ -109,7 +109,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+   # email                : "md5"
   generatedFields:
     date:
       type               : "date"
