@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xuchen / research group"
+title                    : "Xuchen's research website"
 title_separator          : "-"
 name                     : &name "Xuchen Wang"
 description              : &description "personal description"
@@ -28,13 +28,13 @@ author:
   location         : "Qingdao, China"
   employer         : "Harbin Engineering University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuchen.wang@hrbeu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=yBSAMoMAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
